@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Rahul</h1>
 <h3 align="center">A Self Taught Freelance Web Designer & Developer based in Delhi, India.</h3>
-<img align="right" alt="Regal Rahul" width="400" src="">
+<img align="right" alt="Regal Rahul" width="400" src="https://github.com/regal-rahul/regal-rahul/blob/main/powder-blue-coder.png">
 
 - 🔭 I’m currently working on [Go Camp](https://pacific-harbor-46989.herokuapp.com/)
 
