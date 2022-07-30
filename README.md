@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- ⚡ Fun fact **Without beared I'm a Baby @_@**
+- 💬 Ping me about **Web Development, Javascript & React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
